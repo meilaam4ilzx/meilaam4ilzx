@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm MeiLaa</h1>
-<h3 align="center">I typically work with Java and Python, but I also enjoy web design, basic web security, and exploring reverse engineering. I'm currently enhancing my programming skills with the aim of eventually competing in VNO</h3>
+<h3 align="center">I typically work with Java and Python, but I also enjoy web design, basic web security, and exploring reverse engineering. I'm currently enhancing my programming skills with the aim of eventually competing in VNOI</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=meilaam4ilzx">
