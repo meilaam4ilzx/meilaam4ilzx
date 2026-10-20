@@ -7,18 +7,6 @@
   </a>
 </p>
 
-## 📌 About Me
-- Creator of vieclient.cc
-- Minecraft, Valorant & basketball
-
-
-## 🧠 My Focus Areas
-- Minecraft modding & UI design
-- Web design
-- Basic web security
-- Reverse engineering
-
-
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/meilaam4ilzx">
@@ -29,7 +17,6 @@
   <img src="https://trophy.ryglcloud.net/?username=meilaam4ilzx&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="MeiLaa's GitHub Trophies" />
 </p>
 <div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
 
 
@@ -66,10 +53,6 @@
 
 </p>
 
-<h3 align="center">DevOps & Cloud</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />
 
 </p>
 
@@ -80,22 +63,4 @@
 
 </p>
 
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.youtube.com/@meilaa_ck">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://zyo.lol/meilaa">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
-  </a>
-</p>
-
-## 💬 Quote
-> I hope u fell what i felt 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
-
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
